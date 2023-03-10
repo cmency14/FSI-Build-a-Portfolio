@@ -1,12 +1,19 @@
 h1 {
     color:deeppink;
+    font-family:'Courier New', Courier, monospace;
 }
 h2 {
-    color:dimgray;
+    color:darkslategray;
+    font-family:'Courier New', Courier, monospace;
 }
 h3 {
     color:hotpink;
+    font-family:'Courier New', Courier, monospace;
 }
 img {
-    border-radius: 150px;
+    border-radius: 30px;
+}
+body {
+    background-color: pink;
+    font-family:'Courier New', Courier, monospace;
 }
